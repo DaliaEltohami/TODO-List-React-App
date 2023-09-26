@@ -30,7 +30,7 @@ In this TODO List React App, I created a Simple React App that can add and delet
 - Prerequisites : [Node.js](https://nodejs.org/en/download/)
 - To install required packages : 
 ```
-$ cd ../MyReads
+$ cd ../TODO-List-React-App
 $ npm install -g babel
 $ npm install
 ```
